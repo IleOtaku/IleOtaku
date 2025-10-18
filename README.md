@@ -10,7 +10,7 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-development-orange?style=for-the-badge)
-![Launch](https://img.shields.io/badge/launch-november_10th-brightgreen?style=for-the-badge)
+![Launch](https://img.shields.io/badge/launch-november_TBA-brightgreen?style=for-the-badge)
 
 </div>
 
